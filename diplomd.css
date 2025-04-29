@@ -1,0 +1,37 @@
+.topnav{
+    overFlow:hidden;
+    background-color:gray;
+}
+.topnav  a{
+    float:right;
+    color:black;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+    font-size:25px;}
+    
+    .topnav a:hover {
+        background-color:rgb(228, 217, 223);
+        color:black;}
+         
+        img{
+            float:left;}
+            
+            .right-image {
+                float: right;
+                margin-left: 5px;
+                width: 40%;
+            }
+            ul{font: size 10spx;
+            font-family:Georgia,sans-serif;}
+div {padding: 30px;}
+p{
+    font-size: 40px;
+    color:black;
+}
+h1{
+    font-size: 145%;
+}
+h2{
+    font-size: 145%;
+}
